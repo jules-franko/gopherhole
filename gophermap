@@ -13,7 +13,7 @@ thuleanotherworld online. This is my gopherhole.
 0[Contact]	contact.txt	thuleanotherworld.com:70
 h[HTTP]	URL:https://thuleanotherworld.com/
 
-1[Writings]	writings	thuleanotherworld.com	70
+1[Phlog]	writings	thuleanotherworld.com	70
 
 =echo "$(date "+%A, %B %d, %Y")"
 =echo "$(uptime -p)"
