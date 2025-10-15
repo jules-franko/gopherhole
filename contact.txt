@@ -1,0 +1,3 @@
+[Contact]
+IRC: irc.thuleanotherworld.com
+XMPP: beziel@thuleanotherworld.com
