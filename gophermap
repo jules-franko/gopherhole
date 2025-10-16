@@ -1,27 +1,25 @@
 ----------------------
 --THULEAN OTHERWORLD--
 ----------------------
+=echo "date..: $(date "+%A, %B %d, %Y")"
+=echo "uptime: $(uptime -p)"
 
-I am a student from the United States. I usually go by beziel or
-thuleanotherworld online. This is my gopherhole.
-
-#I[Asuka Langley]	asuka.jpg	thuleanotherworld.com:70
+Imisato.jpg	images/misato.jpg	thuleanotherworld.com:70
 
   _____________
 _/ INFORMATION \_________________
 
-0[About Me]	aboutme.txt	thuleanotherworld.com:70
+0[About]	aboutme.txt	thuleanotherworld.com:70
 0[Contact]	contact.txt	thuleanotherworld.com:70
-h[HTTPS]	URL:https://thuleanotherworld.com/
+h[Website]	URL:https://thuleanotherworld.com/
 
   _______
-_/ PHLOG \_________________
+_/ PHLOG \_______________________
 
 0About Gopher           October 14th, 2025	phlog/gopher.txt	thuleanotherworld.com	70
 
   ______________
-_/ OTHER PLACES \_________________
-
-=echo "$(date "+%A, %B %d, %Y")"
-=echo "$(uptime -p)"
+_/ OTHER PLACES \________________
+1gopher.floodgap.com	/	gopher.floodgap.com	70
+1sdf.org	/	sdf.org	70
 .
