@@ -1,25 +1,24 @@
-----------------------
---THULEAN OTHERWORLD--
-----------------------
-=echo "date..: $(date "+%A, %B %d, %Y")"
-=echo "uptime: $(uptime -p)"
+i	----------------------
+i	--THULEAN OTHERWORLD--
+i	----------------------
+=echo "date.........: $(date "+%A, %B %d, %Y")"
+=echo "server uptime: $(uptime -p)"
 
 Imisato.jpg	images/misato.jpg	thuleanotherworld.com:70
 
   _____________
-_/ INFORMATION \_________________
-
+_/ INFORMATION \____________________
 0[About]	aboutme.txt	thuleanotherworld.com:70
 0[Contact]	contact.txt	thuleanotherworld.com:70
 h[Website]	URL:https://thuleanotherworld.com/
 
   _______
-_/ PHLOG \_______________________
-
-0About Gopher           October 14th, 2025	phlog/gopher.txt	thuleanotherworld.com	70
+_/ PHLOG \__________________________
+0About Gopher     October 14th, 2025	phlog/gopher.txt	thuleanotherworld.com	70
 
   ______________
-_/ OTHER PLACES \________________
+_/ OTHER PLACES \___________________
+1Search Gopherspace with Veronica-2	/	gopher.floodgap.com/1/	70
 1gopher.floodgap.com	/	gopher.floodgap.com	70
 1sdf.org	/	sdf.org	70
 .
