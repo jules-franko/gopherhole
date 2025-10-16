@@ -15,12 +15,12 @@
 
 IPicture	images/eva.jpg	thuleanotherworld.com:70
 
-  _____________
-_/ STUFF       \____________________
+  _______
+_/ STUFF \____________________
 0[About]	aboutme.txt	thuleanotherworld.com:70
 0[Contact]	contact.txt	thuleanotherworld.com:70
 h[Website]	URL:https://thuleanotherworld.com/
-=[ASCII]	ascii/gophermap	thuleanotherworld.com	70
+1[ASCII]	ascii/	thuleanotherworld.com	70
 
   _______
 _/ PHLOG \__________________________
