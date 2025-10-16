@@ -1,6 +1,4 @@
-i	----------------------
-i	--THULEAN OTHERWORLD--
-i	----------------------
+thuleanotherworld
 =echo "date.........: $(date "+%A, %B %d, %Y")"
 =echo "server uptime: $(uptime -p)"
 
